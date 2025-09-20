@@ -1,1 +1,2 @@
-# 1320123003-data-mining
+Nama : Ferri Firmansyah Gusti
+NIM : 1320123003
